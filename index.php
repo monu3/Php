@@ -124,7 +124,7 @@ while($mark>0){
 }
 
 do{
-    echo "this is do while loop ".$mark."<br/>";
+    echo "this is do monu loop ".$mark."<br/>";
 }
 
 ?>
