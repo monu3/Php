@@ -111,7 +111,7 @@ echo "the day is : ".$day;
 
 <!-- looping  -->
 
-<?php
+<!-- <?php
 
 for($i=1;$i<10;$i++){
     echo "this is loop ".$i."<br/>" ;
@@ -127,9 +127,7 @@ do{
     echo "this is do monu loop ".$mark."<br/>";
 }
 
-?>
+?> -->
 
-
-    
 </body>
 </html>
