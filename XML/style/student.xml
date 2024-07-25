@@ -1,0 +1,32 @@
+
+<?xml-stylesheet type="text/xsl" href="student.xsl">
+<CSIT>
+    <student gender="M">
+        <name>
+            <fName>Monu</fName>
+            <lName>Siddiki</lName>
+        </name>
+        <age>21</age>
+        <roll>25</roll>
+        <imageUrl>https://example.com/1.jpg</imageUrl>
+    </student>
+    <student gender="F">
+        <name>
+            <fName>diwash</fName>
+            <lName>pokherl</lName>
+        </name>
+        <age>20</age>
+        <roll>14</roll>
+        <imageUrl>https://example.com/1.jpg</imageUrl>
+    </student>
+    <student gender="F">
+        <name>
+            <fName>sumit</fName>
+            <lName>stha</lName>
+        </name>
+        <age>22</age>
+        <roll>40</roll>
+        <imageUrl>https://example.com/1.jpg</imageUrl>
+    </student>
+
+</CSIT>

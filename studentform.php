@@ -14,7 +14,7 @@
     </style>
 </head>
 <body>
-    <form method="POST" action="./formhandeler.php">
+    <form method="POST" action="./formHandler.php">
         <input placeholder="Enter first Name " name ="fName" type ="text">
         <input placeholder="Enter last Name " name ="lName" type ="text">
         <input placeholder="Enter roll No " name ="roll" type ="text">

@@ -1,0 +1,12 @@
+<!DOCTYPE college[
+    <!ELEMENT college(student+)>
+    <!ELEMENT student(firstname.lastname,contact,email,address+)>
+    <!ELEMENT address(city,state,pin)>
+    <!ELEMENT firstname(#PCDATA)>
+    <!ELEMENT lastname(#PCDATA)>
+    <!ELEMENT contact(#PCDATA)>
+    <!ELEMENT email(#PCDATA)>
+    <!ELEMENT city(#PCDATA)>
+    <!ELEMENT state(#PCDATA)>
+    <!ELEMENT pin(#PCDATA)>
+]>

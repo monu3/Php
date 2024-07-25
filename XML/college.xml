@@ -1,0 +1,24 @@
+<college>
+    <student>
+        <firstname>monu</firstname>
+        <lastname>siddiki</lastname>
+        <contact>9876543210</contact>
+        <email>example@gmail.com</email>
+        <address>
+            <city>kathmandu</city>
+            <state>bagmati</state>
+            <pin>2700</pin>
+        </address>
+    </student>
+    <student>
+        <firstname>diwash</firstname>
+        <lastname>pokherl</lastname>
+        <contact>9876543210</contact>
+        <email>exampleDiwash@gmail.com</email>
+        <address>
+            <city>jhapa</city>
+            <state>koshi</state>
+            <pin>2800</pin>
+        </address>
+    </student>
+</college>
