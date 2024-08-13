@@ -1,6 +1,6 @@
 <!DOCTYPE college[
     <!ELEMENT college(student+)>
-    <!ELEMENT student(firstname.lastname,contact,email,address+)>
+    <!ELEMENT student(firstname,lastname,contact,email,address+)>
     <!ELEMENT address(city,state,pin)>
     <!ELEMENT firstname(#PCDATA)>
     <!ELEMENT lastname(#PCDATA)>

@@ -1,0 +1,7 @@
+<? xml version="1.0"?>
+
+<Person>
+    <Name>Ram</Name>
+    <Age>18</Age>
+    <Pincode>123</Pincode>
+</Person>

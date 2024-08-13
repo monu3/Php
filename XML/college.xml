@@ -1,5 +1,5 @@
 <college>
-    <student>
+    <student faculty="science">
         <firstname>monu</firstname>
         <lastname>siddiki</lastname>
         <contact>9876543210</contact>
@@ -10,7 +10,7 @@
             <pin>2700</pin>
         </address>
     </student>
-    <student>
+    <student faculty="management">
         <firstname>diwash</firstname>
         <lastname>pokherl</lastname>
         <contact>9876543210</contact>
